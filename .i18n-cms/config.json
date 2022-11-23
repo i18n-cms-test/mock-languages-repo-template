@@ -1,0 +1,15 @@
+{
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "fileType": "json",
+  "defaultLanguage": "en",
+  "namespaces": [
+    "common",
+    "translationA",
+    "translationB",
+    "translationC"
+  ],
+  "useCustomPath": true
+}
